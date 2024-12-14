@@ -41,17 +41,17 @@ MySQL = {
  		'db' : 'osucs461'
 	},
 	'sandbox' : {
-		'host' : 'xxxx',
+		'host' : '144.126.217.65',
 		'port' : 3306,
 		"user": "xxx",
         "passwd": "xxxx",
  		'db' : 'osucs461'
 	},
 	'prod' : {
-		'host' : 'xxxx',
+		'host' : '144.126.217.65',
 		'port' : 3306,
-		"user": "xxx",
-        "passwd": "xxxx",
+		"user": "root",
+        "passwd": "kevin",
  		'db' : 'osucs461'
 	}
 }[env]
