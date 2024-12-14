@@ -1,7 +1,7 @@
 # this file is a template config file, the real configs are in __init__.py
 from dataclasses import dataclass
 
-env = "local"
+env = "prod"
 API_VERSION = 'v1'
 SERVER = 'osucapstone.com'
 FRONTEND = 'osucapstone.com'
